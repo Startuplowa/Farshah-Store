@@ -1,0 +1,13 @@
+{
+  "appId": "com.farshah.dashboard",
+  "appName": "FS Dashboard",
+  "webDir": "www",
+  "server": {
+    "url": "https://farshah.netlify.app",
+    "androidScheme": "https",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
